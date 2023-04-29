@@ -14,9 +14,10 @@
   <img src="https://komarev.com/ghpvc/?username=manidharanupoju24&style=flat-square&color=blue" alt=""/>
 </div>
 
- -https://www.credly.com/badges/4a0b524f-ae9f-4082-8a66-1c15b4335ab8/public_url
   
- ## My skillset includes :
+ ## My Certfications includes :
+ <a href="https://www.credly.com/badges/4a0b524f-ae9f-4082-8a66-1c15b4335ab8/public_url"><img src="https://user-images.githubusercontent.com/127466748/235255262-810f01e5-628d-4f93-b765-4208b75419af.png" width="60" height="60"></a>
+ 
  ![image](https://user-images.githubusercontent.com/127466748/235255218-216298cc-c667-40bc-918e-93de5bd6ee5f.png)
 ![image](https://user-images.githubusercontent.com/127466748/235255245-9b5b26c2-0556-45ad-9318-c99d3dd1349d.png)
 ![image](https://user-images.githubusercontent.com/127466748/235255262-810f01e5-628d-4f93-b765-4208b75419af.png)
