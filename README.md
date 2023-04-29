@@ -14,6 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=manidharanupoju24&style=flat-square&color=blue" alt=""/>
 </div>
 
+ -https://www.credly.com/badges/4a0b524f-ae9f-4082-8a66-1c15b4335ab8/public_url
   
  ## My skillset includes :
  ![image](https://user-images.githubusercontent.com/127466748/235255218-216298cc-c667-40bc-918e-93de5bd6ee5f.png)
