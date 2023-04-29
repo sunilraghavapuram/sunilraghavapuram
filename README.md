@@ -36,7 +36,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilraghavapuram&&layout=compact)](https://github.com/sunilraghavapuram/github-readme-stats)
 
 ##  Professional Summary :
-https://github.com/sunilraghavapuram/sunilraghavapuram/blob/main/Sunil_Azure_Integration_Architect_Profile.docx
 - Around 10+ years of experience in the field of IT as an Azure Integration Lead developer/Architect/Azure DevOps with a focus on EAI, Cloud Integration, SOA solutions in Retail and accounting domains. 
 -	Demonstrated expertise in designing and implementing complex integration solutions utilizing Microsoft Azure services such as Azure Service Bus, Azure Logic Apps, Azure API Management, Azure Functions and Azure Event Grid. 
 -	Worked closely with business stakeholders and IT teams to identify their integration requirements, opportunities for optimization and automation and to deliver solutions that exceeded their expectations. 
