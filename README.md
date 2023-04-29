@@ -3,26 +3,34 @@
   - I'm currently working as Azure Integration Architect
   - I'm currently learning AWS DevOps😄
   - My interests include Azure Integration and DevOps
-  - https://www.linkedin.com/in/sunil-raghavapuram-4b84ab86/
+  
+  <div id="header">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/sunil-raghavapuram-4b84ab86>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    </div>
+  <img src="https://komarev.com/ghpvc/?username=manidharanupoju24&style=flat-square&color=blue" alt=""/>
+</div>
+
   
  ## My skillset includes :
  ![image](https://user-images.githubusercontent.com/127466748/235255218-216298cc-c667-40bc-918e-93de5bd6ee5f.png)
 ![image](https://user-images.githubusercontent.com/127466748/235255245-9b5b26c2-0556-45ad-9318-c99d3dd1349d.png)
 ![image](https://user-images.githubusercontent.com/127466748/235255262-810f01e5-628d-4f93-b765-4208b75419af.png)
 
- <!--
  ## My work experience :computer:
   - Manager at [CAPGEMINI ](https://www.capgemini.com/)
   - Senior Associate Consultant at [Infosys LTD](https://www.infosys.com/)
   - Senior Software Engineer at [HCL Technology LTD](https://hcl.com/)
   - Software Engineer at [Helios and Matheson information technology ltd]
--->   
-## My stats
+
+## My stats :
  
 [![Sunil Raghavapuram’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilraghavapuram)](https://github.com/sunilraghavapuram/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilraghavapuram&&layout=compact)](https://github.com/sunilraghavapuram/github-readme-stats)
 
-<!--
 ##  Professional Summary :
 https://github.com/sunilraghavapuram/sunilraghavapuram/blob/main/Sunil_Azure_Integration_Architect_Profile.docx
 - Around 10+ years of experience in the field of IT as an Azure Integration Lead developer/Architect/Azure DevOps with a focus on EAI, Cloud Integration, SOA solutions in Retail and accounting domains. 
@@ -50,7 +58,6 @@ https://github.com/sunilraghavapuram/sunilraghavapuram/blob/main/Sunil_Azure_Int
 -	Enforced automation in build and deployment procedures, executed code builds and deployment activities and managed Build and Release Engineering standards. 
 -	Ability to work optimally under scheduled deadlines, deliver high-quality output and exhibit logical, analytical and good interpersonal skills while being an excellent team player. 
 -	High-performing professional with over 10+ years of experience in Design, Development and support activities utilizing Microsoft Technologies.
--->
 <!--
 **sunilraghavapuram/sunilraghavapuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
