@@ -36,38 +36,38 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilraghavapuram&&layout=compact)](https://github.com/sunilraghavapuram/github-readme-stats)
 
 ##  Professional Summary :
-•	Around 10+ years of experience in the field of IT as an Azure Integration Lead developer /Azure DevOps/BizTalk with a focus on EAI, Cloud Integration, SOA solutions in Health Care, Retail and accounting domains. 
-•	Demonstrated expertise in designing and implementing complex integration solutions utilizing Microsoft Azure services such as Azure Service Bus, Azure Logic Apps, Azure API Management, Azure Functions and Azure Event Grid. 
-•	Worked closely with business stakeholders and IT teams to identify their integration requirements, opportunities for optimization and automation and to deliver solutions that exceeded their expectations. 
-•	Led the development of integration strategies and roadmaps utilizing Azure integration services that optimized performance, reduced costs and enhanced scalability. 
-•	Conducted thorough assessments of existing integration frameworks, processes and tools to identify areas for improvement, mitigate risks and optimize performance in Azure. 
-•	Collaborated with cross-functional teams across the enterprise to ensure Azure integration solutions were designed and delivered in accordance with industry standards, best practices and regulatory requirements. 
-•	Led the selection and evaluation of Azure integration vendors and technologies while balancing cost, functionality, scalability and ease of use to meet organizational needs. 
-•	Developed Azure integration solutions that were fault-tolerant, highly available and scalable while utilizing Azure monitoring and management tools to ensure optimal performance and minimize downtime. 
-•	Mentored and trained junior integration architects and developers on Azure integration best practices, troubleshooting and performance optimization. 
-•	Exhibited excellent communication and interpersonal skills with the ability to articulate complex technical concepts to non-technical stakeholders, manage conflicts effectively and build consensus among diverse teams. 
-•	Stayed up-to-date on emerging Azure integration technologies, industry trends and best practices and contributed to thought leadership and innovation in the field of enterprise Azure integration. 
-•	Possess experience in Azure API Management and Azure Logic Apps, Azure Integration Account. 
-•	Strong experience in Creating APIM and Azure Logic Apps and Integration Service, Azure integration Account, Azure FHIR Service, Azure AD, Azure Service Bus, Azure Storage Account, Azure Function App, Event Grid, Log Analytics, Azure AI. 
-•	Experienced in utilizing Logic App Connectors such as SAP, Salesforce, Storage Account (Blob), Service Bus, Azure SQL, http, Event Grid, Log Analytics. 
-•	Experience in logic app using integration account (FHIR, XML, JSON, XSD, XSLT template, LIQUID template). 
-•	Skilled in creating ARM Templates for APIM and Integration Account, Logic App. 
-•	Experience in Power Apps, Power Automate.
-•	Experience in Azure DevOps with proficiency in YMAL script and Classic Editor. 
-•	Expertise in utilizing Repository like GIT, Bit Bucket and Azure Repos. 
-•	Skilled in deploying Logic App and Integration account, API Management using Ci/CD pipeline into multiple environments. 
-•	Designed and developed Azure cloud migration architecture. 
-•	Strong Experience in developing custom pipelines and deploying schemas, orchestration for BizTalk 2020/2016/2013 R2/2010 solutions. 
-•	Configured and Host Instances, Receive Locations, Send Ports, Orchestrations in BizTalk admin console.  
-•	Experience includes implementing many adapters like MSMQ, SQL, HTTP, FTP.
-•	BizTalk Consultant with hands on experience in the core areas like EDI/ XML, highly skilled in Inbound & Outbound Interfaces, BizTalk / EDI Configuration, BizTalk Data Mapping uses EDIFACT and X12 Standards.
-•	Experience in Creating Partners and AS2, X12 agreements in Azure Integration. EDI application migration to Azure Logic apps. 
-•	Experience in FHIR Service and FHIR resources.
-•	Possess knowledge on BizTalk, Azure and SAP Functional. Worked on Tech development using Azure PAAS.
-•	Possess basic Knowledge on Mule Soft, SAP Functional, SSIS. 
-•	Enforced automation in build and deployment procedures, executed code builds and deployment activities and managed Build and Release Engineering standards. 
-•	Ability to work optimally under scheduled deadlines, deliver high-quality output and exhibit logical, analytical and good interpersonal skills while being an excellent team player. 
-•	High-performing professional with over 10+ years of experience in Design, Development and support activities utilizing Microsoft Technologies.
+-	Around 10+ years of experience in the field of IT as an Azure Integration Lead developer /Azure DevOps/BizTalk with a focus on EAI, Cloud Integration, SOA solutions in Health Care, Retail and accounting domains. 
+-	Demonstrated expertise in designing and implementing complex integration solutions utilizing Microsoft Azure services such as Azure Service Bus, Azure Logic Apps, Azure API Management, Azure Functions and Azure Event Grid. 
+-	Worked closely with business stakeholders and IT teams to identify their integration requirements, opportunities for optimization and automation and to deliver solutions that exceeded their expectations. 
+-	Led the development of integration strategies and roadmaps utilizing Azure integration services that optimized performance, reduced costs and enhanced scalability. 
+-	Conducted thorough assessments of existing integration frameworks, processes and tools to identify areas for improvement, mitigate risks and optimize performance in Azure. 
+-	Collaborated with cross-functional teams across the enterprise to ensure Azure integration solutions were designed and delivered in accordance with industry standards, best practices and regulatory requirements. 
+-	Led the selection and evaluation of Azure integration vendors and technologies while balancing cost, functionality, scalability and ease of use to meet organizational needs. 
+-	Developed Azure integration solutions that were fault-tolerant, highly available and scalable while utilizing Azure monitoring and management tools to ensure optimal performance and minimize downtime. 
+-	Mentored and trained junior integration architects and developers on Azure integration best practices, troubleshooting and performance optimization. 
+-	Exhibited excellent communication and interpersonal skills with the ability to articulate complex technical concepts to non-technical stakeholders, manage conflicts effectively and build consensus among diverse teams. 
+-	Stayed up-to-date on emerging Azure integration technologies, industry trends and best practices and contributed to thought leadership and innovation in the field of enterprise Azure integration. 
+-	Possess experience in Azure API Management and Azure Logic Apps, Azure Integration Account. 
+-	Strong experience in Creating APIM and Azure Logic Apps and Integration Service, Azure integration Account, Azure FHIR Service, Azure AD, Azure Service Bus, Azure Storage Account, Azure Function App, Event Grid, Log Analytics, Azure AI. 
+-	Experienced in utilizing Logic App Connectors such as SAP, Salesforce, Storage Account (Blob), Service Bus, Azure SQL, http, Event Grid, Log Analytics. 
+-	Experience in logic app using integration account (FHIR, XML, JSON, XSD, XSLT template, LIQUID template). 
+-	Skilled in creating ARM Templates for APIM and Integration Account, Logic App. 
+-	Experience in Power Apps, Power Automate.
+-	Experience in Azure DevOps with proficiency in YMAL script and Classic Editor. 
+-	Expertise in utilizing Repository like GIT, Bit Bucket and Azure Repos. 
+-	Skilled in deploying Logic App and Integration account, API Management using Ci/CD pipeline into multiple environments. 
+-	Designed and developed Azure cloud migration architecture. 
+-	Strong Experience in developing custom pipelines and deploying schemas, orchestration for BizTalk 2020/2016/2013 R2/2010 solutions. 
+-	Configured and Host Instances, Receive Locations, Send Ports, Orchestrations in BizTalk admin console.  
+-	Experience includes implementing many adapters like MSMQ, SQL, HTTP, FTP.
+-	BizTalk Consultant with hands on experience in the core areas like EDI/ XML, highly skilled in Inbound & Outbound Interfaces, BizTalk / EDI Configuration, BizTalk Data Mapping uses EDIFACT and X12 Standards.
+-	Experience in Creating Partners and AS2, X12 agreements in Azure Integration. EDI application migration to Azure Logic apps. 
+-	Experience in FHIR Service and FHIR resources.
+-	Possess knowledge on BizTalk, Azure and SAP Functional. Worked on Tech development using Azure PAAS.
+-	Possess basic Knowledge on Mule Soft, SAP Functional, SSIS. 
+-	Enforced automation in build and deployment procedures, executed code builds and deployment activities and managed Build and Release Engineering standards. 
+-	Ability to work optimally under scheduled deadlines, deliver high-quality output and exhibit logical, analytical and good interpersonal skills while being an excellent team player. 
+-	High-performing professional with over 10+ years of experience in Design, Development and support activities utilizing Microsoft Technologies.
 <!--
 **sunilraghavapuram/sunilraghavapuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
