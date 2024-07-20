@@ -49,7 +49,8 @@
 -	Stayed up-to-date on emerging Azure integration technologies, industry trends and best practices and contributed to thought leadership and innovation in the field of enterprise Azure integration. 
 -	Possess experience in Azure API Management and Azure Logic Apps, Azure Integration Account. 
 -	Strong experience in Creating APIM and Azure Logic Apps and Integration Service, Azure integration Account, Azure FHIR Service, Azure AD, Azure Service Bus, Azure Storage Account, Azure Function App, Event Grid, Log Analytics, Azure AI. 
--	Experienced in utilizing Logic App Connectors such as SAP, Salesforce, Storage Account (Blob), Service Bus, Azure SQL, http, Event Grid, Log Analytics. 
+-	Experienced in utilizing Logic App Connectors such as SAP, Salesforce, Storage Account (Blob), Service Bus, Azure SQL, http, Event Grid, Log Analytics, Azure FHIR.
+-	Experience in EDI (X12, EDIFACT,HIPPA), Azure FHIR service. 
 -	Experience in logic app using integration account (FHIR, XML, JSON, XSD, XSLT template, LIQUID template). 
 -	Skilled in creating ARM Templates for APIM and Integration Account, Logic App. 
 -	Experience in Power Apps, Power Automate.
